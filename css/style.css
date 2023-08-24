@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: #111 url(https://labs.phaser.io/assets/sprites/phaser3-logo-small.png) no-repeat 0 20px;
+    color: #eee;
+    font: caption;
+  }
+  
+  #version {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.5)
+  }
